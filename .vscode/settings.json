@@ -3,5 +3,7 @@
 		"ios": "cpp",
 		"vector": "cpp",
 		"iostream": "cpp"
-	}
+	},
+	"files.insertFinalNewline": true,
+	"C_Cpp.default.cppStandard": "c++20"
 }
